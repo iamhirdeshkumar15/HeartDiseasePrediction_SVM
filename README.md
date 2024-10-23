@@ -1,8 +1,6 @@
 # HeartDiseasePrediction_SVM
 This repository contains a predictive analysis project that uses Support Vector Machines (SVM) to classify heart disease. It implements three SVM models (linear, polynomial, and RBF) and evaluates their performance using confusion matrices and metrics such as accuracy, precision, recall, and F1 score.
 
-# Heart Disease Prediction using Support Vector Machines (SVM)
-
 ## Description
 
 This project employs Support Vector Machine (SVM) techniques to predict heart disease classification. It utilizes a dataset containing various health-related features to train and evaluate three different SVM models: linear, polynomial, and radial basis function (RBF). The performance of each model is assessed through confusion matrices and metrics such as accuracy, precision, recall, and F1 score.
